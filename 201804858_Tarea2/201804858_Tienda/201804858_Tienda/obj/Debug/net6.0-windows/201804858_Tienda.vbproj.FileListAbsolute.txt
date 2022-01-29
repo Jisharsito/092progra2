@@ -1,0 +1,34 @@
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\bin\Debug\net6.0-windows\201804858_Tienda.exe
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\bin\Debug\net6.0-windows\201804858_Tienda.deps.json
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\bin\Debug\net6.0-windows\201804858_Tienda.runtimeconfig.json
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\bin\Debug\net6.0-windows\201804858_Tienda.dll
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\bin\Debug\net6.0-windows\ref\201804858_Tienda.dll
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\bin\Debug\net6.0-windows\201804858_Tienda.pdb
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.vbproj.AssemblyReference.cache
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\_201804858_Tienda.Form1.resources
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.vbproj.GenerateResource.cache
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.AssemblyInfoInputs.cache
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.AssemblyInfo.vb
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.vbproj.CoreCompileInputs.cache
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.dll
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\ref\201804858_Tienda.dll
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.pdb
+C:\Users\kanoe\Desktop\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.genruntimeconfig.cache
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\bin\Debug\net6.0-windows\201804858_Tienda.exe
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\bin\Debug\net6.0-windows\201804858_Tienda.deps.json
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\bin\Debug\net6.0-windows\201804858_Tienda.runtimeconfig.json
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\bin\Debug\net6.0-windows\201804858_Tienda.dll
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\bin\Debug\net6.0-windows\ref\201804858_Tienda.dll
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\bin\Debug\net6.0-windows\201804858_Tienda.pdb
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.vbproj.AssemblyReference.cache
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\_201804858_Tienda.Form1.resources
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.vbproj.GenerateResource.cache
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.GeneratedMSBuildEditorConfig.editorconfig
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.AssemblyInfoInputs.cache
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.AssemblyInfo.vb
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.vbproj.CoreCompileInputs.cache
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.dll
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\ref\201804858_Tienda.dll
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.pdb
+D:\COSAS DEL ESCRITORIO\201804858_Tarea2\201804858_Tienda\201804858_Tienda\obj\Debug\net6.0-windows\201804858_Tienda.genruntimeconfig.cache
